@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: block;
+  background-color: blue;
+  margin-bottom: 2px;
+  padding: 5px;
+}
